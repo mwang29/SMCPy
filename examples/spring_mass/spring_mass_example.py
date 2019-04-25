@@ -1,5 +1,5 @@
 import numpy as np
-from spring_mass_models import SpringMassModel
+from spring_mass_model import SpringMassModel
 from smcpy.smc.smc_sampler import SMCSampler
 
 # Initialize model
